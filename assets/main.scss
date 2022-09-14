@@ -9,6 +9,6 @@
 @import "bootstrap_customization";
 
 img {
-  margin: auto;
-  display: block;
+  margin: auto !important;
+  display: block !important;
 }
